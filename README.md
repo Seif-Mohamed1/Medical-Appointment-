@@ -43,3 +43,11 @@ Analysis, EDA, and answer some questions.
     1 or more messages sent to the patient.
     No-show
     True or False.
+ <a id='intro'></a>
+## Introduction
+   
+    
+####   This data works on the problem that 30% of patients miss their scheduled appointments.So we have to analyze this data and find out the problem. Let's put some questions that need an answer.
+####   **The main question is why 30% of patients miss their scheduled appointments?**
+####   **Does the patient's gender affect attendance?**
+####   **What affects patients and makes them not attend their scheduled appointments?**
